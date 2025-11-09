@@ -37,6 +37,12 @@ Here are some ideas to get you started:
 - 📫 Connect with me on [LinkedIn](https://linkedin.com/in/omomer)
 
 ---
+### 🌐 Portfolio
+
+Check out my work:
+
+- [Portfolio](https://om-omer-portfolio.vercel.app/)
+- --
 
 ### 🛠️ Tech Stack
 
@@ -72,6 +78,7 @@ Here are some ideas to get you started:
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/Om%20Omer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omomer)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omjiomer28@gmail.com)
 
 ---
 
