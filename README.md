@@ -80,6 +80,7 @@ Check out my work:
 [![LinkedIn](https://img.shields.io/badge/Om%20Omer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omomer)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omjiomer28@gmail.com)
 
+
 ---
 
 > ⚡ _"Building is learning. Learning is growing."_  
